@@ -1,0 +1,64 @@
+{
+  "internships": [
+    {
+      "id": "INT-101",
+      "title": "Frontend Intern",
+      "domain": "Full Stack Development",
+      "mode": "Remote",
+      "location": "India",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "openings": 3,
+      "stipend": "₹25,000 / month",
+      "duration": "6 Months",
+      "description": "Collaborate with cross-functional product teams to design and build accessible, responsive user interfaces. You will work on component systems, state management, and modern browser APIs."
+    },
+    {
+      "id": "INT-102",
+      "title": "API Engineering Intern",
+      "domain": "Full Stack Development",
+      "mode": "Hybrid",
+      "location": "Pune",
+      "skills": ["Node.js", "SQL", "Testing"],
+      "openings": 2,
+      "stipend": "₹28,000 / month",
+      "duration": "6 Months",
+      "description": "Develop and maintain secure, scalable RESTful microservices. You will optimize SQL database queries, implement automated unit/integration test suites, and write comprehensive API documentation."
+    },
+    {
+      "id": "INT-103",
+      "title": "UI/UX Intern",
+      "domain": "UI/UX",
+      "mode": "Remote",
+      "location": "India",
+      "skills": ["Figma", "Research", "Accessibility"],
+      "openings": 1,
+      "stipend": "₹22,000 / month",
+      "duration": "4 Months",
+      "description": "Conduct qualitative and quantitative user research, create low and high-fidelity prototypes in Figma, and ensure all design assets satisfy WCAG 2.1 AA accessibility guidelines."
+    },
+    {
+      "id": "INT-104",
+      "title": "Data Analyst Intern",
+      "domain": "Data Analytics",
+      "mode": "On-site",
+      "location": "Bengaluru",
+      "skills": ["Excel", "SQL", "Data visualisation"],
+      "openings": 2,
+      "stipend": "₹30,000 / month",
+      "duration": "6 Months",
+      "description": "Extract, transform, and analyze enterprise metrics. You will build interactive dashboards, perform statistical queries, and translate business intelligence into actionable insights."
+    },
+    {
+      "id": "INT-105",
+      "title": "Security Operations Intern",
+      "domain": "Cyber Security",
+      "mode": "Remote",
+      "location": "India",
+      "skills": ["Linux", "Logs", "Networking"],
+      "openings": 1,
+      "stipend": "₹26,000 / month",
+      "duration": "6 Months",
+      "description": "Assist our security operations center (SOC) with vulnerability scanning, real-time log analysis, intrusion detection alerts, and Linux server hardening practices."
+    }
+  ]
+}

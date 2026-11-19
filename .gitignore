@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# SQLite Database Files
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
